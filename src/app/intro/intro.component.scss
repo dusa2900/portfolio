@@ -1,5 +1,5 @@
 /*Home section*/
-.jumbotron
+/*.jumbotron
 {
 
     //background:url('src/assets/images/gani.JPG') center;
@@ -29,7 +29,35 @@ padding-left:180px ;
     border-right: bisque;
     border-width: 1px;
     
+}*/
+
+.col-lg-6
+{
+   padding: 5px;
 }
+.div{
+padding: 160px 0px;
+}
+.div1
+{
+    
+    padding: 70px 0px;
+    
+}
+
+.h2
+{
+    font-size: 1.75rem;
+}
+
+@media(max-width:100px)
+{
+    .jumbotron{
+height: 200px;
+float: left;
+    }
+}
+
 
 
 
